@@ -26,7 +26,7 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Codeforces: "https://codeforces.com/profile/juankipedia"
-    - Learn markdown: "https://mammut.io/"
+    - Mammut.io: "https://mammut.io/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
