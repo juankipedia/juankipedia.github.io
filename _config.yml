@@ -76,7 +76,7 @@ social-network-links:
   github: juankipedia
 #  reddit: yourname
 #  google-plus: +DeanAttali
-  linkedin: https://www.linkedin.com/in/juan-diego-mor%C3%B3n-430a82114/
+  linkedin: /in/juankipedia/
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -97,7 +97,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "juankipedia.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
