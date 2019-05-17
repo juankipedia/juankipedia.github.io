@@ -25,6 +25,7 @@ description: System Engineering Student and C.S enthusiast
 navbar-links:
   About Me: "aboutme"
   Resources:
+    - Resume: "https://juankipedia.github.io/2019-05-17-resume/
     - Codeforces: "https://codeforces.com/profile/juankipedia"
     - Mammut.io: "https://mammut.io/"
 
