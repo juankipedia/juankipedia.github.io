@@ -1,16 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Juan Diego M. Flores, and I am:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- System Engineering Student
+- Software Developer at Mammut.io
+- Teacher Assistant
+- Competitive Programming Contestant
+- C.S enthusiast 
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Feel free to contact me:
+juandiegp17@gmail.com
