@@ -7,7 +7,7 @@ My name is Juan Diego M. Flores, and I am:
 
 - System Engineering Student
 - Software Developer at Mammut.io
-- Teacher Assistant
+- Ex Teacher Assistant
 - Competitive Programming Contestant
 - C.S enthusiast 
 
