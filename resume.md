@@ -11,36 +11,6 @@ mathematics thanks to extracurricular studying and active participation on progr
 enjoy working on challenger projects. That carry me to over pass my skill limits and let me work on
 Mammut.io
 
-## Personal Projects
-### GitHub
-#### DotandBox: 
-“Dot and Box” video game with an AI that works against user. Written on C++ with QT.
-#### translater: 
-Translator from Markdown to JSON written on Scala.
-#### simulators:
-Different simulators of cool stuffs such as:
-##### simulators/operative_system
-An small kernel for the intel 8085 microprocessor written on assembly.
-##### simulators/ODE/2ndOrderLinearSystems
-Simulations of 2nd order systems made with different languages and techniques.
-#### machine-learning-lab
-This is a project created on my path of learning machine learning. There we can find some different exercises 
-of machine learning.
-#### CompetitiveProgramming
-Project to store all the solutions for problems i have solve, also there is a library with useful codes/functions 
-for Competitive Programming.
-#### scala-exercises
-Some exercises written in my way of learning Scala.
-#### GameOfDrones
-simple frond end application, this app is about the game rock, paper and scissors. Written on Java Script using ReactJs
-#### GameOfDrones-BackEnd
-BackEnd application for the game GameOfDrones using Nodejs and RedisDB.
-#### scheduler
-C++ app used to keep track of hours worked within a month.
-#### UlaTeaching
-Sample codes, exercises and more used to teach on "La Universidad de Los Andes"
-
-
 ## Experience
 ### La Universidad de los Andes
 #### Teacher Assistant | Sep. 2017 – Oct 2019
@@ -97,6 +67,35 @@ Working on main core of developing chat bots and front end web applications.
 ***Microsoft Virtual Academy***: “C++: A General Purpose Language and library Jump Start.” Feb. 2016, “C# Fundamentals for Absolute Beginners.” Feb 2017.
 
 ***Platzi***: “Curso Básico de C#.” Feb 2017, “Curso de Programación Básica.” Dec 2016, “Curso de Animación y Arte de Videojuegos.” Jan 2017, “Curso de Creación de Videojuegos.” Jan. 2017, “Curso de Marketing y Negocios para Videojuegos.” Jan. 2017, “Carrera de Videojuegos.” January 2017.
+
+## Personal Projects
+### GitHub
+#### DotandBox: 
+“Dot and Box” video game with an AI that works against user. Written on C++ with QT.
+#### translater: 
+Translator from Markdown to JSON written on Scala.
+#### simulators:
+Different simulators of cool stuffs such as:
+##### simulators/operative_system
+An small kernel for the intel 8085 microprocessor written on assembly.
+##### simulators/ODE/2ndOrderLinearSystems
+Simulations of 2nd order systems made with different languages and techniques.
+#### machine-learning-lab
+This is a project created on my path of learning machine learning. There we can find some different exercises 
+of machine learning.
+#### CompetitiveProgramming
+Project to store all the solutions for problems i have solve, also there is a library with useful codes/functions 
+for Competitive Programming.
+#### scala-exercises
+Some exercises written in my way of learning Scala.
+#### GameOfDrones
+simple frond end application, this app is about the game rock, paper and scissors. Written on Java Script using ReactJs
+#### GameOfDrones-BackEnd
+BackEnd application for the game GameOfDrones using Nodejs and RedisDB.
+#### scheduler
+C++ app used to keep track of hours worked within a month.
+#### UlaTeaching
+Sample codes, exercises and more used to teach on "La Universidad de Los Andes"
 
 ### Download as Pdf:
 [click here](https://github.com/juankipedia/juankipedia.github.io/raw/master/resume.pdf)
