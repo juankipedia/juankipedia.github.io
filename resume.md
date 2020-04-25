@@ -1,3 +1,8 @@
+---
+layout: page
+title: About me
+---
+
 ## Summary
 I am a System Engineering student at La Universidad de Los Andes and a Computer Science self learner,
 currently at 8th semester. I love to solve math-algorithmic interesting problems while learning new
