@@ -4,12 +4,11 @@ title: Resume
 ---
 
 ## Summary
-I am a System Engineering student at La Universidad de Los Andes and a Computer Science self learner,
-currently at 8th semester. I love to solve math-algorithmic interesting problems while learning new
-techniques and concepts to improve my problem solving skills. I have a good background on algorithms and
-mathematics thanks to extracurricular studying and active participation on programming competitions. I also
-enjoy working on challenger projects. That carry me to over pass my skill limits and let me work on
-Mammut.io
+I am a System Engineering student at La Universidad de Los Andes and a Computer Science student at Universidad
+Nacional de Colombia. I love to solve math-algorithmic interesting problems while learning new techniques and
+concepts to improve my problem solving skills. I have a good background on algorithms and mathematics thanks to
+extracurricular studying and active participation on programming competitions. I also enjoy working on challenger projects. 
+That carry me to over pass my skill limits and let me work on Mammut.io.
 
 ## Experience
 ### La Universidad de los Andes
